@@ -1,4 +1,4 @@
-package uva;
+package uva.ch01.phase_1;
 
 import java.util.Scanner;
 
