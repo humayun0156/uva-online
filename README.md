@@ -2,6 +2,18 @@ UVa Online Judge
 
 |#|Number|Problem Title|Solution|
 |---|-----|--------|----------|
+|32|12554|[A Special "Happy Birthday" Song!!!](http://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=3999)|[Java](./src/main/java/uva/ch01/phase_2/UVA_12554.java)|
+|31|10025|[The ? 1 ? 2 ? ... ? n = k problem](http://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=966)|[Java]()|
+|30|12157|[Tariff Plan](http://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=3309)|[Java](./src/main/java/uva/ch01/phase_2/UVA_12157.java)|
+|29|12503|[Robot Instructions](http://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=3947)|[Java](./src/main/java/uva/ch01/phase_2/UVA_12503.java)|
+|28|12279|[Emoogle Balance](http://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=3431)|[Java](./src/main/java/uva/ch01/phase_1/UVA_12279.java)|
+|27|12468|[Zapping](http://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=3912)|[Java](./src/main/java/uva/ch01/phase_2/UVA_12468.java)|
+|26|12015|[Google is Feeling Lucky](http://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=3166)|[Java](./src/main/java/uva/ch01/phase_2/UVA_12015.java)|
+|25|12403|[Save Setu](http://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=3834)|[Java](./src/main/java/uva/ch01/phase_1/UVA_12403.java)|
+|24|11942|[Lumberjack Sequencing](http://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=3093)|[Java](./src/main/java/uva/ch01/phase_2/UVA_11942.java)|
+|23|12250|[Language Detection](http://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=3402)|[Java](./src/main/java/uva/ch01/phase_1/UVA_12250.java)|
+|22|11364|[Parking](http://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=2349)|[Java](./src/main/java/uva/ch01/phase_1/UVA_11364.java)|
+|21|11559|[Event Planning](http://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=2595)|[Java](./src/main/java/uva/ch01/phase_2/UVA_11559.java)|
 |20|621|[Secret Research](http://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=562)|[Java](./src/main/java/uva/ch01/phase_2/UVA_00621.java)|
 |19|12577|[Hajj-e-Akbar](http://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=4022)|[Java](./src/main/java/uva/ch01/phase_1/UVA_012577.java)|
 |18|1124|[Celebrity jeopardy](http://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=3565)|[Java](./src/main/java/uva/ch01/phase_1/UVA_01125.java)|
